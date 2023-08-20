@@ -1,5 +1,6 @@
 # Article-text-analysis
 This repo aims at scraping the web using BeautifulSoup library of Python and doing analysis of the text such as sentiment analysis, readability analysis, etc.
+Text analysis is done using Natural Language Processing library such as NLTK.
 
 The article text is first cleaned up by removing stop words from it.
 A list of positive and negative words was made for doing sentiment analysis. 
